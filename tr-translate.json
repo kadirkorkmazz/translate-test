@@ -1,9 +1,15 @@
 {
   "tr": {
     "translation": {
-      "title": "Yenilikçi ürünlerimiz ve özel üretimyetkinliklerimiz ile hizmetinizdeyiz.",
-      "subtitle": "İLETİŞİME GEÇİN",
-      "contact": "TOPLANTI TALEP EDİN"
+      "contact-title": "Yenilikçi ürünlerimiz ve özel üretimyetkinliklerimiz ile hizmetinizdeyiz.",
+      "contact-project-btn":"PROJENİZİ ANLATIN",
+      "contact-contactus-btn": "İLETİŞİME GEÇİN",
+      "contact-meeting-btn": "TOPLANTI TALEP EDİN",
+      "contact-kocaeli":"Merkez/Fabrika",
+      "contact-istanbul":"Ofis",
+      "contact-adana":"Bölge Müdürlüğü",
+      "contact-izmir":"Bölge Müdürlüğü",
+      "contact-antalya":"Bölge Müdürlüğü",      
     }
   }
 }
