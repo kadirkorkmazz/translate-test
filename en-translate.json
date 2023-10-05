@@ -1,9 +1,15 @@
 {
-  "en": {
+  "tr": {
     "translation": {
-      "title": "We are at your service with our innovative products and special production provisions.",
-      "subtitle": "CONTACT",
-      "contact": "Request a meeting"
+      "contact-title": "EN-Yenilikçi ürünlerimiz ve özel üretimyetkinliklerimiz ile hizmetinizdeyiz.",
+      "contact-project-btn":"EN-PROJENİZİ ANLATIN",
+      "contact-contactus-btn": "EN-İLETİŞİME GEÇİN",
+      "contact-meeting-btn": "EN-TOPLANTI TALEP EDİN",
+      "contact-kocaeli":"EN-Merkez/Fabrika",
+      "contact-istanbul":"EN-Ofis",
+      "contact-adana":"EN-Bölge Müdürlüğü",
+      "contact-izmir":"EN-Bölge Müdürlüğü",
+      "contact-antalya":"EN-Bölge Müdürlüğü",      
     }
   }
 }
